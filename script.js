@@ -47,7 +47,7 @@ function generateMessage(noCount) {
     "Mong bé tha lỗi choo anhh :((",
     "Anhh saii rồi , anhh đáng trách ạ",
     "Bé đừng giận anhh nữa nhoo",
-    "Anhhh iu bé nhắm nhunnn đóoooo",
+    "Anhhh thương bé nhắm nhunnn đóoooo",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
